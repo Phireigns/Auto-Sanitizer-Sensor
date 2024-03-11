@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/g6GxHHIjTqs)
 
 <h2>Description</h2>
-The project is a game console implemented using an Arduino board, an LCD screen, and a keypad. It offers two games: a math game and an English game. The math game allows players to select the difficulty level and solve random arithmetic questions. The English game tests players' knowledge of English tenses and requires them to identify past, present, and past participle tenses. The console provides a user-friendly interface with a menu system and feedback through the LCD screen. Players can enter their answers using the keypad, and the system checks the correctness of their responses. The project aims to provide an interactive and educational gaming experience for users.
+This Arduino code controls a system with two servo motors and an ultrasonic sensor. The system measures the distance using the sensor and moves the servo motors based on the detected distance. If the distance is less than or equal to 20cm, one servo motor moves while the other remains still for 1 second. If the distance is greater, the servo motors briefly move to different angles. This code enables the system to detect objects within a certain range and adjust the servo motors accordingly.
 <br />
 
 <h2>Summary</h2>
